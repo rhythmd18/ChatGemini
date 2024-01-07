@@ -1,1 +1,1 @@
-# GeminiChatBot
+# GemTalk
